@@ -1,4 +1,4 @@
-# swisstronik-perc-20
+# swisstronik-perc20
 
 This repository contains a setup for deploying and interacting with an PERC-20 token on the Swisstronik testnet using Hardhat. The setup includes scripts for deploying the contract, minting tokens, and transferring tokens, utilizing encrypted transactions with Swisstronik.
 
